@@ -7,3 +7,5 @@ d=78
 e=69
 f=d*e
 print(f)
+g=d/e
+print(g)
