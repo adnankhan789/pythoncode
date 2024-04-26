@@ -8,4 +8,4 @@ e=69
 f=d*e
 print(f)
 g=d/e
-printg)
+print(g)
